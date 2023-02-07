@@ -12,12 +12,17 @@
 ## Sobre 
 O trabalho consiste na submissão de dois exercícios de juízes onlines que utilizam programação dinâmica.
 
+## Screenshot
+![Screenshot](./print1.png)
+
+![Screenshot](./print2.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 Necessário ter Python3 instalado e configurado em seu computador.
 
 ## Uso 
-Para executar os exercícios, é necessário entrar na pasta do exercício e executar o comando: ```python3 exercicio.py < input > output```, nisso a saída do programa será salva no arquivo output onde será possível comparar com a saída esperada do exercício.
+Para executar os exercícios, é necessário entrar na pasta do exercício e executar o comando: ```python3 answer.py < input.txt```, nisso será possível verificar a saída no terminal e comparar com o output esperado da questão.
 
 ## Outros 
 A execução do comando ```python3``` depende de como o Python está configurado em sua máquina, podendo variar.
